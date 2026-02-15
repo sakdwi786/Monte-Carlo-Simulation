@@ -4,7 +4,7 @@
 This project is a professional simulator for pricing European Call and Put options using Monte Carlo methods. It simulates stock price paths with Geometric Brownian Motion, compares Monte Carlo prices to Black-Scholes analytical prices, and visualizes the results with animated plots. Designed for finance, education, and research.
 
 ## Developer / Creator
-**tubakhxn**
+**Saksham Dwivedi**
 
 
 ## Features
@@ -74,3 +74,4 @@ All parameters are labeled and visualized in the plot.
 
 ## License
 MIT
+
